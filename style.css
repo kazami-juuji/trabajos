@@ -1,0 +1,19 @@
+* {
+    background-color: floralwhite;
+}
+body {
+    background-color: antiquewhite;
+}
+#titulo {
+    color: rgba(255, 0, 0, 0.527);
+}
+.texto {
+    cursor: move ;
+}
+a {
+    color: violet;
+}
+
+form>fieldset>label {
+    background-color: red;
+}

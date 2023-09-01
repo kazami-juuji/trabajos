@@ -1,0 +1,9 @@
+table {
+    background-color: rgba(195, 188, 188, 0.768);
+}
+table tr:nth-child(even) {
+    background-color: blue;
+}
+table tr :nth-child(ada) {
+    background-color: black;
+}
